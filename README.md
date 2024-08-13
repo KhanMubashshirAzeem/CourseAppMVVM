@@ -4,7 +4,7 @@
 
 ### Java
 ### XML
-### FirebaseAuth
+### Firebase Authentication
 ### Firebase Firestore
 ### Firebase Storage
 ### Livedata
