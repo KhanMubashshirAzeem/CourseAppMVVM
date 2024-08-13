@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2784FF</color>
+    <color name="blue2">#DFE9F6</color>
+    <color name="dark_blue">#1F487D8F</color>
+    <color name="light_blue">#1A5F89FF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="icon_blue">#85ABCA</color>
+    <color name="icon_orange1">#E1876B</color>
+    <color name="trans_icon_orange1">#1AE1876B</color>
+    <color name="icon_orange2">#D36441</color>
+    <color name="trans_icon_orange2">#1AD36441</color>
+    <color name="icon_pink">#CA577F</color>
+    <color name="trans_icon_pink">#1ACA577F</color>
+    <color name="grey">#60595B</color>
+    <color name="light_grey">#5960595B</color>
+    <color name="trans_grey">#1ACA577F</color>
+    <color name="lite_blue">#48C3D3</color>
+    <color name="trans_lite_blue">#1A48C3D3</color>
+    <color name="low_blue">#8BBBF6</color>
+    <color name="trans_low_blue">#1A8BBBF6</color>
+    <color name="yellow">#EFE485</color>
+    <color name="trans_yellow">#1AEFE485</color>
+    <color name="lite_green">#AEF35F</color>
+    <color name="trans_lite_green">#1AAEF35F</color>
+    <color name="low_green">#A3E4A6</color>
+    <color name="low_trans_green">#1AA3E4A6</color>
+    <color name="default_color">#00FFFFFF</color>
+
+</resources>

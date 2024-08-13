@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488670984172",
+    "project_id": "courseapp-79ae1",
+    "storage_bucket": "courseapp-79ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488670984172:android:184bf335ae7bec3c4ff2c9",
+        "android_client_info": {
+          "package_name": "com.example.courcesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ZL4-g0igmkU3r-6ek9YjXZ2er-wxtoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
